@@ -25,8 +25,8 @@ SECRET_KEY = 'django-insecure-_ha48icf+^ms)=8()un7=-%ckofmg02r2hm1y1h1q0l02twe!e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1","crudoperations-production.up.railway.app"]
-CSRF_TRUSTED_ORIGINS = ["https://crudoperations-production.up.railway.app"]
+ALLOWED_HOSTS = ["127.0.0.1","chat-room-production-df31.up.railway.app"]
+CSRF_TRUSTED_ORIGINS = ["https://chat-room-production-df31.up.railway.app"]
 
 
 # Application definition
